@@ -14,6 +14,7 @@ namespace WinFormMatematica
         [STAThread]
         static void Main()
         {
+            /* chg para commit */
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);

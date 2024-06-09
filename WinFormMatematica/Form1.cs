@@ -28,7 +28,7 @@ namespace WinFormMatematica
             {
                 // Declare and set array element values.
                 label2.Text = array2.ToString();
-                button1.BackColor = Color.Blue;
+                button1.BackColor = Color.Yellow;
             }
         }
 
@@ -60,7 +60,7 @@ namespace WinFormMatematica
         private void checkedListBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
             checkedListBox1.BackColor = Color.BlueViolet;
-            MessageBox.Show("Es tu chked 12/06/2024 *********");
+            MessageBox.Show("Es tu chked 12/06/2024 *********pppppppppppppppp");
         }
 
         private void Form1_Load(object sender, EventArgs e) 
