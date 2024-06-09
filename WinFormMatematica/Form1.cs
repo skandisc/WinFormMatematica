@@ -28,7 +28,7 @@ namespace WinFormMatematica
             {
                 // Declare and set array element values.
                 label2.Text = array2.ToString();
-                button1.BackColor = Color.Green;
+                button1.BackColor = Color.Blue;
             }
         }
 
