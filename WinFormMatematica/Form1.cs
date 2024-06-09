@@ -60,7 +60,7 @@ namespace WinFormMatematica
         private void checkedListBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
             checkedListBox1.BackColor = Color.BlueViolet;
-            MessageBox.Show("Es tu chked 12/06/2024");
+            MessageBox.Show("Es tu chked 12/06/2024 *********");
         }
 
         private void Form1_Load(object sender, EventArgs e) 
